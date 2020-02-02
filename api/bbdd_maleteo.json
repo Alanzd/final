@@ -1,0 +1,174 @@
+ [
+    {
+        "nombre": "Yuli",
+        "apellido": "Ewing",
+        "email": "curabitur.phasellus@vestibulusmod.ca",
+        "password": "44urae55",
+        "edad":25,
+        "foto": "vacio",
+        "guardian": "False"
+    },
+
+    {
+        "nombre": "Carter",
+        "apellido": "Shepard",
+        "email": "arcu.odio@antedictumcursus.net",
+        "password": "diam66",
+        "edad":32,
+        "foto": "vacio",
+        "guardian": "False"
+    },
+    {
+        "nombre": "Emerson",
+        "apellido": "Wall",
+        "email": "nuncat@volutpatnunc.co.uk",
+        "password": "necante",
+        "edad":37,
+        "foto": "vacio",
+        "guardian": "False"
+    },
+    {
+        "nombre": "Dalton",
+        "apellido": "Soyprogramador",
+        "email": "mi@consequatnecmollis.org",
+        "password": "tortor",
+        "edad":33,
+        "foto": "vacio",
+        "guardian": "True",
+        "datos_guardian": {
+            "ubicacion": {
+                "lat":40.44897932,
+                "lng": -3.65318272
+            },
+            "capacidad_maletas": 10,
+            "titulo": "El hall de hsgsdfafdf",
+            "disponibilidad":"Lunes-Viernes",
+            "no_disponible":
+                ["31-01-2020", 
+                "07-12-2020",
+                "02-10-2020",
+                "01-11-2020"
+                ],
+            "valoracion": 3
+        }
+    },
+    {
+        "nombre": "Dalton",
+        "apellido": "Harvey",
+        "email": "parturient.nascetur@pede.co.uk",
+        "password": "estfhghfyf",
+        "edad":28,
+        "foto": "vacio",
+        "guardian": "True",
+        "datos_guardian": {
+            "ubicacion": {
+                "lat":40.46244854,
+                "lng":-3.73603243
+            },
+            "capacidad_maletas": 10,
+            "titulo": "El antro de Dalton",
+            "disponibilidad" : "Sabados-Domingos",
+            "no_disponible":
+            ["01-01-2020", 
+            "31-12-2020",
+            "02-02-2020",
+            "01-05-2020"
+            ],
+            "valoracion": 1
+        }
+    },
+    {
+        "nombre": "Hilda",
+        "apellido": "Aguirre",
+        "email": "augue.pppppp@tristitis.edu",
+        "password": "magna5465",
+        "edad":88,
+        "foto": "vacio",
+        "guardian": "True",
+        "datos_guardian": {
+            "ubicacion": {
+                "lat":40.42847961,
+                "lng":-3.63071723
+            },
+            "capacidad_maletas": 234,
+            "titulo": "El palacete de Aguirre",
+            "disponibilidad":"Sabados-Domingos",
+            "no_disponible":
+            ["01-11-2020", 
+            "31-10-2020",
+            "02-06-2020",
+            "01-09-2020"
+            ],
+            "valoracion": 4
+        }
+    },
+    {
+        "nombre": "Quin",
+        "apellido": "Teda",
+        "email": "mauris.nunc@nibhdolor.edu",
+        "password": "a892ddcnc",
+        "edad":22,
+        "foto": "vacio",
+        "guardian": "True",
+        "datos_guardian": {
+            "ubicacion": {
+                "lat":40.46943586,
+                "lng":-3.73705556
+            },
+            "capacidad_maletas": 4,
+            "titulo": "El trastero de Teda, Quin",
+            "disponibilidad": "Lunes-Viernes",
+            "no_disponible":
+            ["22-01-2020", 
+            "15-12-2020",
+            "25-02-2020",
+            "12-05-2020"
+            ],
+            "valoracion": 2
+        }
+    },
+    {
+        "nombre": "Skyler",
+        "apellido": "Rivas",
+        "email": "quis.diam@nonhendreritid.ca",
+        "password": "etndnkkk23",
+        "edad":38,
+        "foto": "vacio",
+        "guardian": "True",
+        "datos_guardian": {
+            "ubicacion": {
+                "lat":40.45638975,
+                "lng":-3.73457809
+            },
+            "capacidad_maletas": 2,
+            "titulo": "El hall de Skyler",
+            "disponibilidad":"Sabados-Domingos",
+            "no_disponible":
+            ["01-04-2020", 
+            "31-11-2020",
+            "02-08-2020",
+            "01-06-2020"
+            ],
+            "valoracion": 5
+        }
+    },
+    {
+        "nombre": "Jerome",
+        "apellido": "Klein",
+        "email": "fusce.dolor@eratsemperrutrum.com",
+        "password": "nonummypretty",
+        "edad":54,
+        "foto": "vacio",
+        "guardian": "False"
+    },
+    {
+        "nombre": "Ulric",
+        "apellido": "Roach",
+        "email": "ultricies@diamPeitant.org",
+        "password": "Duisyaesta",
+        "edad":29,
+        "foto": "vacio",
+        "guardian": "False"
+    }
+
+ ]
